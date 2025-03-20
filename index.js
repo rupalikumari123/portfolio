@@ -1,0 +1,1 @@
+//38 MIDIInput. se vdo dekhna baaki HTMLDetailsElement
